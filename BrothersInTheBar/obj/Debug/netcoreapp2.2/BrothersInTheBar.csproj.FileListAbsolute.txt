@@ -1,0 +1,11 @@
+D:\Assignments\Assignments\BrothersInTheBar\bin\Debug\netcoreapp2.2\BrothersInTheBar.deps.json
+D:\Assignments\Assignments\BrothersInTheBar\bin\Debug\netcoreapp2.2\BrothersInTheBar.runtimeconfig.json
+D:\Assignments\Assignments\BrothersInTheBar\bin\Debug\netcoreapp2.2\BrothersInTheBar.runtimeconfig.dev.json
+D:\Assignments\Assignments\BrothersInTheBar\bin\Debug\netcoreapp2.2\BrothersInTheBar.dll
+D:\Assignments\Assignments\BrothersInTheBar\bin\Debug\netcoreapp2.2\BrothersInTheBar.pdb
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.csprojAssemblyReference.cache
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.csproj.CoreCompileInputs.cache
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.AssemblyInfoInputs.cache
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.AssemblyInfo.cs
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.dll
+D:\Assignments\Assignments\BrothersInTheBar\obj\Debug\netcoreapp2.2\BrothersInTheBar.pdb
