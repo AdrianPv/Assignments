@@ -97,7 +97,8 @@ namespace BrothersInTheBar
                         }
                         else
                         {
-                            backwardsIndexes.Clear();
+                            //stops pointless scanning
+                            return rounds;
                         }
                     }
                 }
